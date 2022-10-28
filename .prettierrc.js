@@ -1,0 +1,37 @@
+module.exports = {
+	semi: true,
+	tabWidth: 4,
+	useTabs: true,
+	printWidth: 100,
+	endOfLine: "auto",
+	singleQuote: false,
+	trailingComma: "all",
+	bracketSpacing: true,
+	arrowParens: "always",
+	jsxSingleQuote: false,
+	bracketSameLine: false,
+	quoteProps: "as-needed",
+	singleAttributePerLine: false,
+	htmlWhitespaceSensitivity: "css",
+	embeddedLanguageFormatting: "auto",
+};
+
+// {
+//   "arrowParens": "always",
+//   "bracketSpacing": true,
+//   "embeddedLanguageFormatting": "auto",
+//   "htmlWhitespaceSensitivity": "css",
+//   "insertPragma": false,
+//   "jsxBracketSameLine": false,
+//   "jsxSingleQuote": false,
+//   "proseWrap": "preserve",
+//   "quoteProps": "as-needed",
+//   "requirePragma": false,
+//   "semi": true,
+//   "singleQuote": false,
+//   "tabWidth": 2,
+//   "trailingComma": "es5",
+//   "useTabs": false,
+//   "vueIndentScriptAndStyle": false,
+//   "printWidth": 100
+// }
